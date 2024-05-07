@@ -1,6 +1,6 @@
 # Mathematical-Modeling
 Solving for 2023 APMCM mathematical modeling contest Problem C.  
-Our paper: [Capmcm2305738.pdf](https://github.com/Capa4566/mathematical-modeling/files/15231726/Capmcm2305738.pdf)  
+Our paper (including codes and datasets): [Capmcm2305738.pdf](https://github.com/Capa4566/mathematical-modeling/files/15231726/Capmcm2305738.pdf)  
 Problem sheet: [2023 APMCM Problem C.pdf](https://github.com/Capa4566/mathematical-modeling/files/15233089/2023.APMCM.Problem.C.pdf)
 
 
